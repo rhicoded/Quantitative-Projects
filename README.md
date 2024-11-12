@@ -13,18 +13,18 @@ This project implements a basic algorithmic trading strategy based on the moving
 - Backtesting Framework: Simulates the strategy on historical data to evaluate performance.
 - Performance Metrics: Compares strategy returns against a simple buy-and-hold approach with cumulative returns.
 
-<b> Usage and Customisation </b>
+<b> Usage and Customisation: </b>
 Users can adjust the parameters for short-term and long-term moving averages to explore how different settings impact performance. Additionally, this project provides a foundation for incorporating advanced features, such as stop-loss mechanisms, momentum indicators, and volatility filters.
 
-##2. Stock Price Movement Prediction using Supervised Machine Learning
+## 2. Stock Price Movement Prediction using Supervised Machine Learning
 This project aims to predict stock price movements using historical data. It involves collecting stock data, cleaning and preprocessing it, and then building and evaluating various machine learning models, such as K-Nearest Neighbors, Logistic Regression, and Decision Trees. The goal is to identify the best-performing model for predicting whether a stock's price will increase or decrease over a specific time period. 
 
 <b> Features </b>
-This project demonstrates skills in: 
+
 - Data cleaning
 - Feature engineering
 - Model selection
 - Hyperparameter tuning
 
-<b> Usage and Customisation </b>
+<b> Usage and Customisation: </b>
  Users can customise this project by experimenting with different models, feature engineering techniques, and hyperparameter tuning strategies. Additionally, they can apply the learned techniques to other financial prediction tasks or explore more advanced time series analysis methods.
