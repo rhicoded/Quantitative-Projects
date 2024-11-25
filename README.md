@@ -1,5 +1,5 @@
 # Quantitative-Projects
-Five quantitative Projects in Python implementing quantitative analysis. Below is an explanation of the projects:
+Three quantitative Projects in Python implementing quantitative analysis. Below is an explanation of the projects:
 
 ## 1. Simple Moving Average Algorithmic Trading Strategy
 This project implements a basic algorithmic trading strategy based on the moving average crossover technique, allowing users to backtest and evaluate its effectiveness on historical stock price data. The strategy is designed to generate buy and sell signals using two moving averages (short-term and long-term) to identify potential entry and exit points.
